@@ -1,0 +1,2 @@
+#!/bain/bash
+find . -type f -name *.js -delete
